@@ -52,8 +52,18 @@
 		},
 		{
 			"isim" : "Urban Hacks",
-			"aralik" : "Nis 2022 - Halen",
+			"aralik" : "Nis 2022 - Tem 2022",
 			"unvan" : "Full Stack Yazılım Geliştiricisi"
+		},
+		{
+			"isim" : "BEOX LLC.",
+			"aralik" : "Agu 2022 - Haz 2023",
+			"unvan" : "Mid. Software Developer"
+		},
+		{
+			"isim" : "BEOX LLC.",
+			"aralik" : "Haz 2023",
+			"unvan" : "Software Team Lead"
 		},
 	]
 }
