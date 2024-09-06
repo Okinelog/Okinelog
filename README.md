@@ -1,9 +1,5 @@
 <h1 align="center">🤠 Merhaba, Ben Yasin.</h1>
-<div align="center">
 
-![hi](https://camo.githubusercontent.com/7202c817371f569eea124a99bd3fe181275c723b40190be31db34dfb5096d7a0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f336f726e6b35374b774458663831726a574d2f67697068792e676966)
-
-</div>
 <div align="center">
 	
 [![Linkedin](https://img.shields.io/badge/Linkedin-okinelog-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/okinelog/)
