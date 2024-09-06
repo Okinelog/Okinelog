@@ -19,13 +19,6 @@
     "isim" : "Yasin Erdoğmuş",
     "dogum_tarihi" : "12 Ocak 2001",
     "konum" : "Istanbul, Türkiye",
-    "egitim" : [
-        {
-            "type" : "Lise",
-            "isim" : "Gültepe Mesleki ve Teknik Anadolu Lisesi",
-            "yil" : "2020"
-        }
-    ],
     "programlama_dilleri": [
         "Python","Javascript","Java","C#","PHP", "CSS"
     ],
@@ -57,14 +50,9 @@
 		},
 		{
 			"isim" : "BEOX LLC.",
-			"aralik" : "Agu 2022 - Haz 2023",
-			"unvan" : "Mid. Software Developer"
-		},
-		{
-			"isim" : "BEOX LLC.",
 			"aralik" : "Haz 2023",
-			"unvan" : "Software Team Lead"
-		},
+			"unvan" : "Mid. Software Developer"
+		}
 	]
 }
  ```
