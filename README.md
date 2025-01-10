@@ -1,4 +1,13 @@
 <h1 align="center">🤠 Merhaba, Ben Yasin.</h1>
+<h4 align="center">
+	
+[![My Skills](https://skillicons.dev/icons?i=mysql,js,html,css,go,laravel,vscode,androidstudio,arduino,atom,bitbucket,cs,discord,django,docker,eclipse,elasticsearch,electron,figma,flask,git,github,grafana,java,jenkins,jquery,mongodb,nginx,nodejs,npm,opencv,ps,postman,py,prometheus,raspberrypi,redis,sass,sqlite,selenium,tensorflow,ts,visualstudio,vue)]()
+
+[![](https://skillicons.dev/icons?i=linux)](https://www.linkedin.com/in/okinelog/)
+
+Yazılım geliştiricisi ve tersine mühendis :)
+
+</h4>
 
 <div align="center">
 	
@@ -13,10 +22,15 @@
  ```json
 {
     "isim" : "Yasin Erdoğmuş",
-    "dogum_tarihi" : "12 Ocak 2001",
-    "konum" : "Istanbul, Türkiye",
+    "dogum_tarihi" : "Ocak 2001",
     "programlama_dilleri": [
-        "Python","Javascript","Java","C#","PHP", "CSS"
+        "Python", "Javascript", "Java", "C#", "PHP", "CSS", "Go", "NodeJS"
+    ],
+    "frameworks": [
+        "Laravel", "Vue", "Django", "Flask", "FastAPI", "ElectronJS"
+    ],
+    "araclar": [
+        "Postman", "VS Code", "Git", "HTTP Tool Kit", "Frida", "MitmProxy", "Cursor AI"
     ],
     "is_gecmisi" : [
 		{
